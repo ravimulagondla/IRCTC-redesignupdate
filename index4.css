@@ -1,0 +1,2102 @@
+.frame2 {
+    position: absolute;
+    top: 0;
+    left: calc(50% - 2.5px);
+    width: 100%;
+    height: 100%;
+  }
+  .divlogo4,
+  .svglogo-h14 {
+    margin: 0 !important;
+    position: absolute;
+  }
+  .svglogo-h14 {
+    height: 1.813rem;
+    width: 0.313rem;
+    bottom: -3.231rem;
+    left: 1.25rem;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .divlogo4 {
+    height: 0.813rem;
+    width: 3.375rem;
+    top: -1.519rem;
+    left: 4.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    opacity: 0.37;
+  }
+  .image-1-icon4 {
+    height: 2.813rem;
+    width: 5rem;
+    position: relative;
+    object-fit: cover;
+    cursor: pointer;
+  }
+  .trains4 {
+    position: relative;
+    font-size: 0.875rem;
+    font-weight: 600;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    min-width: 2.625rem;
+  }
+  .train-option1 {
+    cursor: pointer;
+    border: 0;
+    padding: 0.468rem 1rem;
+    background-color: #066086;
+    border-radius: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .train-option1:hover {
+    background-color: #2b87ad;
+  }
+  .buses4 {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 2.563rem;
+  }
+  .bus-flight-label {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .flights5 {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 2.813rem;
+  }
+  .bus-flight-label1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .more13 {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 2.188rem;
+  }
+  .chevron-down-icon10 {
+    height: 0.813rem;
+    width: 1rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .more-options4,
+  .more-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+  .more-parent {
+    justify-content: center;
+    gap: 0.25rem;
+  }
+  .more-options4 {
+    justify-content: flex-end;
+  }
+  .image-1-parent,
+  .travel-options4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .travel-options4 {
+    flex: 1;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+  .image-1-parent {
+    width: 24.688rem;
+    justify-content: center;
+    gap: 1.75rem;
+    max-width: 100%;
+  }
+  .eng4 {
+    position: relative;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 1.625rem;
+  }
+  .chevron-down-icon11 {
+    height: 0.813rem;
+    width: 1rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .language,
+  .language-select1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+  }
+  .language-select1 {
+    justify-content: center;
+    gap: 0.25rem;
+  }
+  .language {
+    justify-content: flex-end;
+  }
+  .ak4 {
+    position: relative;
+    line-height: 1.125rem;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 1.25rem;
+  }
+  .ak-wrapper,
+  .language-region {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .ak-wrapper {
+    border-radius: 50px;
+    background-color: #009ddb;
+    justify-content: center;
+    padding: 0.437rem 0.375rem;
+    text-align: right;
+    color: #fff;
+  }
+  .language-region {
+    justify-content: flex-start;
+    gap: 1.25rem;
+  }
+  .header4,
+  .navigation-bar {
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .navigation-bar {
+    height: 2rem;
+    flex: 1;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    gap: 1.25rem;
+  }
+  .header4 {
+    align-self: stretch;
+    background-color: rgba(255, 255, 255, 0.8);
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.875rem 3.75rem;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    text-align: left;
+    font-size: 0.875rem;
+    color: #002234;
+    font-family: Inter;
+  }
+  .train-icon3 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 1.5rem;
+  }
+  .find-train2 {
+    position: relative;
+    line-height: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 4.25rem;
+  }
+  .option-labels,
+  .ticket-options {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+  }
+  .ticket-options {
+    border-radius: 8px;
+    background-color: #fff;
+    border-bottom: 1px solid #d9d0e3;
+    flex-direction: row;
+    padding: 1.375rem 4.25rem 1.25rem;
+    gap: 0.75rem;
+  }
+  .card-account-details-outline-icon2 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 1.5rem;
+  }
+  .passenger-details5 {
+    position: relative;
+    line-height: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 7.75rem;
+  }
+  .passenger-details-frame,
+  .ticket-options1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+  }
+  .ticket-options1 {
+    border-radius: 8px;
+    background-color: #fff;
+    border-bottom: 1px solid #d9d0e3;
+    flex-direction: row;
+    padding: 1.375rem 2.5rem 1.25rem;
+    gap: 0.75rem;
+  }
+  .credit-card {
+    margin: 0;
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 1.5rem;
+  }
+  .payment2 {
+    position: relative;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: Inter;
+    color: #002234;
+    text-align: left;
+    display: inline-block;
+    min-width: 3.625rem;
+  }
+  .payment-frame,
+  .ticket-options2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+  }
+  .ticket-options2 {
+    cursor: pointer;
+    border: 0;
+    padding: 1.375rem 4.562rem 1.062rem;
+    background-color: #fff;
+    border-radius: 8px;
+    border-bottom: 4px solid #009ddb;
+    flex-direction: row;
+    gap: 0.75rem;
+  }
+  .download-icon3 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 1.5rem;
+  }
+  .download-ticket2 {
+    position: relative;
+    line-height: 1.25rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 7.375rem;
+  }
+  .download-ticket-frame {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+  }
+  .ticket-details1,
+  .ticket-options3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .ticket-options3 {
+    border-radius: 8px;
+    background-color: #fff;
+    border-bottom: 1px solid #d9d0e3;
+    justify-content: flex-start;
+    padding: 1.375rem 2.687rem 1.25rem;
+    gap: 0.75rem;
+  }
+  .ticket-details1 {
+    justify-content: center;
+    gap: 1.25rem;
+    max-width: 100%;
+  }
+  .class-availability {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 2.25rem;
+  }
+  .class-info {
+    width: 3.25rem;
+    border-radius: 4px;
+    border: 1px solid #d9d0e3;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 0.125rem 0.437rem;
+  }
+  .malwa-express6 {
+    flex: 1;
+    position: relative;
+    font-size: 1rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #002234;
+    display: inline-block;
+    min-width: 5.625rem;
+  }
+  .travel-class {
+    width: 22.25rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.5rem;
+    max-width: 100%;
+  }
+  .m5 {
+    color: #002234;
+  }
+  .t-w5 {
+    color: #8f8f8f;
+  }
+  .t5 {
+    color: #002234;
+  }
+  .f5 {
+    color: #8f8f8f;
+  }
+  .s18 {
+    color: #002234;
+  }
+  .s19 {
+    color: #8f8f8f;
+  }
+  .train-runs-m-container5 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .instance-child13 {
+    width: 0.6rem;
+    height: 0.369rem;
+    position: relative;
+  }
+  .additional-info-inner {
+    width: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.318rem 0.187rem 0.312rem;
+    box-sizing: border-box;
+  }
+  .additional-info,
+  .schedule-breakdown {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    max-width: 100%;
+  }
+  .additional-info {
+    width: 22.25rem;
+    justify-content: flex-end;
+    padding: 0.25rem 0;
+    box-sizing: border-box;
+  }
+  .schedule-breakdown {
+    align-self: stretch;
+    justify-content: space-between;
+    gap: 1.25rem;
+    color: #667b85;
+  }
+  .schedule-breakdown1 {
+    align-self: stretch;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #d9d0e3;
+    box-sizing: border-box;
+    opacity: 0.6;
+  }
+  .new-delhi-railway2,
+  .sat-31-apr6 {
+    position: relative;
+    text-transform: capitalize;
+  }
+  .sat-31-apr6 {
+    line-height: 1.2rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .new-delhi-railway2 {
+    height: 0.625rem;
+    font-size: 0.875rem;
+    color: #667b85;
+    display: flex;
+    align-items: center;
+  }
+  .departure-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.5rem;
+  }
+  .time-indicators {
+    width: 2.563rem;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #dedede;
+    box-sizing: border-box;
+  }
+  .time-indicators-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 0.312rem;
+  }
+  .h-10m6 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 2.5rem;
+  }
+  .frame-child10 {
+    width: 2.563rem;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #dedede;
+    box-sizing: border-box;
+  }
+  .time-breakdown-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    padding: 0 0 0.312rem;
+  }
+  .departure-time1,
+  .time-breakdown {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .time-breakdown {
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 0.5rem;
+  }
+  .departure-time1 {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.781rem 0 0;
+    font-size: 0.625rem;
+    color: #667b85;
+  }
+  .indore-jn2,
+  .sun-01-may6 {
+    position: relative;
+    text-transform: capitalize;
+  }
+  .sun-01-may6 {
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .indore-jn2 {
+    height: 0.625rem;
+    display: flex;
+    align-items: center;
+    min-width: 3.875rem;
+  }
+  .arrival-station2 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    font-size: 0.875rem;
+    color: #667b85;
+  }
+  .arrival,
+  .arrival-station2,
+  .departure {
+    display: flex;
+    align-items: flex-start;
+  }
+  .arrival {
+    width: 9.438rem;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.5rem;
+  }
+  .departure {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+    font-size: 1rem;
+  }
+  .change-boarding-station1 {
+    position: relative;
+    line-height: 150%;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #009ddb;
+  }
+  .schedule-breakdown2 {
+    align-self: stretch;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #d9d0e3;
+    box-sizing: border-box;
+    opacity: 0.6;
+  }
+  .adult-first1 {
+    width: 43.875rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    debug_commit: 1de1738;
+    white-space: nowrap;
+    max-width: 120%;
+  }
+  .adult-first-class-ac-1a-container,
+  .schedule-breakdown3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    box-sizing: border-box;
+    max-width: 100%;
+  }
+  .adult-first-class-ac-1a-container {
+    width: 36.813rem;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .schedule-breakdown3 {
+    align-self: stretch;
+    justify-content: center;
+    padding: 0.156rem 0;
+    font-size: 1rem;
+  }
+  .schedule-breakdown4 {
+    align-self: stretch;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #d9d0e3;
+    box-sizing: border-box;
+    opacity: 0.6;
+  }
+  .passenger-detail1 {
+    position: relative;
+    text-transform: capitalize;
+    display: inline-block;
+    min-width: 7.25rem;
+  }
+  .passenger-info1,
+  .passenger-title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .passenger-info1 {
+    align-self: stretch;
+    flex-direction: row;
+    align-items: center;
+    padding: 0.218rem 0;
+  }
+  .name {
+    width: 3.75rem;
+    position: relative;
+    text-transform: capitalize;
+    flex-shrink: 0;
+  }
+  .akshat-khare,
+  .data-field,
+  .name {
+    display: flex;
+    align-items: center;
+  }
+  .akshat-khare {
+    width: 9.188rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #002234;
+    flex-shrink: 0;
+  }
+  .data-field {
+    flex: 1;
+    flex-direction: row;
+    justify-content: space-between;
+    min-width: 14.938rem;
+    max-width: 100%;
+    gap: 1.25rem;
+  }
+  .age,
+  .contact-values {
+    width: 3.75rem;
+    position: relative;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .contact-values {
+    width: 9.188rem;
+    font-weight: 500;
+    color: #002234;
+  }
+  .contact-details1,
+  .main-details {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .contact-details1 {
+    flex: 1;
+    align-items: flex-start;
+    justify-content: space-between;
+    min-width: 14.938rem;
+    gap: 1.25rem;
+  }
+  .main-details {
+    align-self: stretch;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 6.125rem 0 0;
+    box-sizing: border-box;
+    gap: 8.75rem;
+  }
+  .gender,
+  .male {
+    position: relative;
+    text-transform: capitalize;
+    flex-shrink: 0;
+  }
+  .gender {
+    width: 3.75rem;
+    display: flex;
+    align-items: center;
+  }
+  .male {
+    width: 9.188rem;
+    font-weight: 500;
+    color: #002234;
+  }
+  .email-id,
+  .gender-parent,
+  .male {
+    display: flex;
+    align-items: center;
+  }
+  .gender-parent {
+    width: 22.938rem;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 1.25rem;
+  }
+  .email-id {
+    width: 3.75rem;
+    position: relative;
+    text-transform: capitalize;
+    flex-shrink: 0;
+  }
+  .akshatkhare707gmailcom {
+    position: relative;
+    text-transform: lowercase;
+    font-weight: 500;
+    color: #002234;
+    white-space: nowrap;
+  }
+  .email-id-parent,
+  .main-details1 {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .email-id-parent {
+    flex: 1;
+    align-items: flex-start;
+    justify-content: space-between;
+    min-width: 15.563rem;
+    gap: 1.25rem;
+  }
+  .main-details1 {
+    align-self: stretch;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 5.125rem 0 0;
+    box-sizing: border-box;
+    gap: 8.75rem;
+  }
+  .mobile {
+    width: 3.75rem;
+    position: relative;
+    text-transform: capitalize;
+    flex-shrink: 0;
+  }
+  .div19,
+  .mobile,
+  .mobile-parent {
+    display: flex;
+    align-items: center;
+  }
+  .div19 {
+    width: 9.188rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #002234;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .mobile-parent {
+    width: 22.938rem;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 1.25rem;
+  }
+  .main-details2,
+  .passenger-data1,
+  .passenger-info-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .passenger-data1,
+  .passenger-info-parent {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  .passenger-data1 {
+    font-size: 0.75rem;
+    color: #667b85;
+  }
+  .passenger-info-parent {
+    font-size: 0.875rem;
+  }
+  .schedule-breakdown5 {
+    align-self: stretch;
+    height: 0.063rem;
+    position: relative;
+    border-top: 1px solid #d9d0e3;
+    box-sizing: border-box;
+    opacity: 0.6;
+  }
+  .fare-summary,
+  .ticket-fare {
+    position: relative;
+    text-transform: capitalize;
+  }
+  .fare-summary {
+    display: inline-block;
+    min-width: 6.188rem;
+  }
+  .ticket-fare {
+    height: 0.563rem;
+    display: flex;
+    align-items: center;
+    min-width: 4rem;
+  }
+  .fare-rows {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div20,
+  .fare-table {
+    display: flex;
+    align-items: center;
+  }
+  .div20 {
+    width: 9.188rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #002234;
+    text-align: right;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .fare-table {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+  .convenience-fee-incl {
+    height: 0.563rem;
+    position: relative;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+  }
+  .convenience-fee-incl-of-gst-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div21,
+  .fare-table1 {
+    display: flex;
+    align-items: center;
+  }
+  .div21 {
+    width: 9.188rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #002234;
+    text-align: right;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .fare-table1 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+  .travel-insurance-incl {
+    height: 0.563rem;
+    position: relative;
+    text-transform: capitalize;
+    display: flex;
+    align-items: center;
+  }
+  .travel-insurance-incl-of-gst-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .div22 {
+    width: 9.188rem;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #002234;
+    text-align: right;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .div22,
+  .fare-table2,
+  .total-fare1 {
+    display: flex;
+    align-items: center;
+  }
+  .fare-table2 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+  .total-fare1 {
+    height: 0.563rem;
+    position: relative;
+    text-transform: capitalize;
+    min-width: 3.563rem;
+  }
+  .total-fare-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .b4,
+  .fare-table3 {
+    display: flex;
+    align-items: center;
+  }
+  .b4 {
+    width: 9.188rem;
+    position: relative;
+    font-size: 1rem;
+    line-height: 150%;
+    text-transform: capitalize;
+    color: #002234;
+    text-align: right;
+    flex-shrink: 0;
+    white-space: nowrap;
+  }
+  .fare-table3 {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+  .fare-details1 {
+    align-self: stretch;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    color: #667b85;
+  }
+  .component-30,
+  .fare-breakdown,
+  .fare-details1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .fare-breakdown {
+    align-self: stretch;
+    gap: 0.5rem;
+    font-size: 0.875rem;
+  }
+  .component-30 {
+    width: 63.75rem;
+    border-radius: 16px;
+    background-color: #fff;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    gap: 0.725rem;
+    max-width: 100%;
+  }
+  .irctc-ipay {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 4rem;
+  }
+  .payment-icons-child {
+    width: 1rem;
+    height: 1rem;
+    object-fit: contain;
+  }
+  .payment-icons,
+  .payment-method-list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.125rem 0 0;
+  }
+  .payment-method-list {
+    align-self: stretch;
+    border-radius: 4px;
+    background-color: #fff;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1rem 1.5rem 0.937rem;
+    gap: 1.25rem;
+    color: #002234;
+  }
+  .netbanking {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 4.25rem;
+  }
+  .payment-method-list1 {
+    align-self: stretch;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.968rem 1.5rem;
+  }
+  .multiple-payment-service {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 600;
+  }
+  .payment-method-list2 {
+    align-self: stretch;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.968rem 1.5rem;
+  }
+  .payment-gatewaycredit-cardde {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 600;
+  }
+  .payment-method-list3 {
+    align-self: stretch;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.968rem 1.5rem;
+  }
+  .walletscash-card {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 6.75rem;
+  }
+  .payment-method-list4 {
+    align-self: stretch;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0.968rem 1.5rem;
+  }
+  .emi {
+    position: relative;
+    line-height: 1.313rem;
+    font-weight: 600;
+    display: inline-block;
+    min-width: 1.375rem;
+  }
+  .payment-method-list5,
+  .payment-options {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .payment-method-list5 {
+    align-self: stretch;
+    border-radius: 4px;
+    flex-direction: row;
+    padding: 0.968rem 1.5rem;
+  }
+  .payment-options {
+    width: 21.163rem;
+    flex-direction: column;
+    padding: 0 0.725rem 0 0;
+    box-sizing: border-box;
+    gap: 1.25rem;
+    max-width: 100%;
+  }
+  .component-104 {
+    outline: 0;
+    padding: 1rem;
+    font-family: Inter;
+    font-size: 0.75rem;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    background: 0 0;
+  }
+  .wrapper-component-10-inner {
+    width: 2%;
+    height: 0.369rem;
+    position: absolute;
+    z-index: 2;
+    right: 1.2rem;
+    top: 1.319rem;
+  }
+  .wrapper-component-102 {
+    position: relative;
+    border: 1px solid #d9d0e3;
+    background-color: transparent;
+    height: 3rem;
+    flex: 1;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 14rem;
+    max-width: 100%;
+  }
+  .component-321 {
+    outline: 0;
+    padding: 0.875rem 1rem;
+    font-family: Inter;
+    font-size: 0.75rem;
+    color: #8f8f8f;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    background: 0 0;
+  }
+  .wrapper-component-32-child {
+    width: 6%;
+    height: 0.369rem;
+    position: absolute;
+    z-index: 2;
+    right: 1.2rem;
+    top: 1.319rem;
+  }
+  .wrapper-component-32 {
+    position: relative;
+    border: 1px solid #d9d0e3;
+    background-color: transparent;
+    width: 8.75rem;
+    border-radius: 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+  }
+  .component-331 {
+    outline: 0;
+    padding: 0.875rem 1rem;
+    font-family: Inter;
+    font-size: 0.75rem;
+    color: #8f8f8f;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    background: 0 0;
+  }
+  .wrapper-component-33-child {
+    width: 9%;
+    height: 0.369rem;
+    position: absolute;
+    z-index: 2;
+    right: 1.2rem;
+    top: 1.319rem;
+  }
+  .charge-items,
+  .wrapper-component-33 {
+    display: flex;
+    flex-direction: row;
+    gap: 1.25rem;
+  }
+  .wrapper-component-33 {
+    position: relative;
+    border: 1px solid #d9d0e3;
+    background-color: transparent;
+    width: 6.25rem;
+    border-radius: 8px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .charge-items {
+    align-self: stretch;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .component-311 {
+    outline: 0;
+    padding: 0.875rem 1rem;
+    font-family: Inter;
+    font-size: 0.75rem;
+    color: #8f8f8f;
+    border: 0;
+    width: 100%;
+    height: 100%;
+    background: 0 0;
+  }
+  .wrapper-component-31-child {
+    width: 1%;
+    height: 0.369rem;
+    position: absolute;
+    z-index: 2;
+    right: 1.2rem;
+    top: 1.319rem;
+  }
+  .charge-items1,
+  .wrapper-component-31 {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+  }
+  .wrapper-component-31 {
+    position: relative;
+    border: 1px solid #d9d0e3;
+    background-color: transparent;
+    flex: 1;
+    border-radius: 8px;
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 15.625rem;
+    gap: 1.25rem;
+  }
+  .charge-items1 {
+    align-self: stretch;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .charge-breakdown {
+    gap: 1.25rem;
+  }
+  .charge-breakdown,
+  .charges-list {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .applicable-taxes-for {
+    position: relative;
+    line-height: 1.313rem;
+    display: inline-block;
+    max-width: 100%;
+  }
+  .applicable-taxes-for1,
+  .applicable-taxes-for2,
+  .applicable-taxes-for3,
+  .applicable-taxes-for4 {
+    position: relative;
+    line-height: 1.313rem;
+    margin-top: -0.125rem;
+  }
+  .tax-details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .chek-box9 {
+    margin: 0;
+    height: 1.25rem;
+    width: 1.25rem;
+    position: relative;
+  }
+  .privacy-policy,
+  .terms-of-service {
+    color: #009ddb;
+  }
+  .i-accept-to-container {
+    position: relative;
+    font-weight: 500;
+  }
+  .agreement,
+  .charges-details,
+  .taxes {
+    display: flex;
+    justify-content: flex-start;
+    max-width: 100%;
+  }
+  .agreement {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+    color: #667b85;
+  }
+  .charges-details,
+  .taxes {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.75rem;
+  }
+  .charges-details {
+    align-self: stretch;
+    gap: 1.25rem;
+  }
+  .search-icon5 {
+    height: 1rem;
+    width: 1rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .sample-button8 {
+    position: relative;
+    font-size: 0.875rem;
+    line-height: 1.313rem;
+    font-weight: 600;
+    font-family: Inter;
+    color: #009ddb;
+    text-align: left;
+    display: inline-block;
+    min-width: 3.5rem;
+  }
+  .button-filled-m8 {
+    cursor: pointer;
+    border: 1px solid #009ddb;
+    padding: 0.625rem 1.437rem;
+    background-color: transparent;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    white-space: nowrap;
+  }
+  .button-filled-m8:hover {
+    background-color: rgba(26, 184, 245, 0.09);
+    border: 1px solid #1ab8f5;
+    box-sizing: border-box;
+  }
+  .search-icon6 {
+    height: 1rem;
+    width: 1rem;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: none;
+  }
+  .sample-button9 {
+    position: relative;
+    font-size: 0.875rem;
+    line-height: 1.313rem;
+    font-weight: 600;
+    font-family: Inter;
+    color: #fff;
+    text-align: left;
+    display: inline-block;
+    min-width: 3.688rem;
+  }
+  .button-container,
+  .button-filled-m9 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .button-filled-m9 {
+    cursor: pointer;
+    border: 0;
+    padding: 0.718rem 1.5rem;
+    background-color: #009ddb;
+    border-radius: 4px;
+    justify-content: center;
+    gap: 0.5rem;
+    white-space: nowrap;
+  }
+  .button-filled-m9:hover {
+    background-color: #1ab8f5;
+  }
+  .button-container {
+    align-self: stretch;
+    justify-content: flex-end;
+    padding: 0 0 0 24.375rem;
+    gap: 1.5rem;
+  }
+  .additional-charges {
+    flex: 1;
+    border-radius: 4px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    min-width: 27.313rem;
+    min-height: 25.75rem;
+    max-width: 100%;
+    color: #8f8f8f;
+  }
+  .footer-logo-child {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    margin: 0 !important;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .a9 {
+    bottom: 1.882rem;
+    left: 0.705rem;
+    display: inline-block;
+    transform: rotate(76.9deg);
+    transform-origin: 0 0;
+    z-index: 1;
+  }
+  .a9,
+  .k8,
+  .s20 {
+    position: absolute;
+    margin: 0 !important;
+  }
+  .s20 {
+    bottom: 1.189rem;
+    left: 0.86rem;
+    display: inline-block;
+    transform: rotate(63.4deg);
+    transform-origin: 0 0;
+    z-index: 2;
+  }
+  .k8 {
+    height: 1.006rem;
+    bottom: 0.691rem;
+    left: 1.072rem;
+    transform: rotate(51.3deg);
+    z-index: 3;
+  }
+  .i4,
+  .k8,
+  .k9 {
+    display: inline-block;
+    transform-origin: 0 0;
+  }
+  .i4 {
+    height: 1.019rem;
+    position: absolute;
+    margin: 0 !important;
+    bottom: -0.126rem;
+    left: 2.019rem;
+    transform: rotate(19.7deg);
+    z-index: 6;
+  }
+  .k9 {
+    height: 1.081rem;
+    bottom: -0.205rem;
+    left: 2.268rem;
+    transform: rotate(8.8deg);
+    z-index: 7;
+  }
+  .h4,
+  .k9,
+  .s21 {
+    position: absolute;
+    margin: 0 !important;
+  }
+  .s21 {
+    height: 1.044rem;
+    right: 2.456rem;
+    bottom: -0.226rem;
+    display: inline-block;
+    transform: rotate(-5.2deg);
+    transform-origin: 0 0;
+    z-index: 8;
+  }
+  .h4 {
+    height: 1.15rem;
+    right: 1.919rem;
+    bottom: -0.279rem;
+    transform: rotate(-19.4deg);
+    z-index: 9;
+  }
+  .footer-logo-letters,
+  .footer-slogan,
+  .h4 {
+    display: inline-block;
+    transform-origin: 0 0;
+  }
+  .footer-slogan {
+    position: absolute;
+    margin: 0 !important;
+    right: 1.012rem;
+    bottom: 1.943rem;
+    transform: rotate(-66deg);
+    z-index: 13;
+  }
+  .footer-logo-letters {
+    width: 0.588rem;
+    right: 0.269rem;
+    bottom: 1.203rem;
+    transform: rotate(-77.1deg);
+    z-index: 14;
+  }
+  .d4,
+  .date-values,
+  .footer-logo-letters {
+    position: absolute;
+    margin: 0 !important;
+  }
+  .date-values {
+    height: 1rem;
+    width: 0.206rem;
+    bottom: -0.619rem;
+    left: 0.171rem;
+    display: inline-block;
+    transform: rotate(41.7deg);
+    transform-origin: 0 0;
+    z-index: 4;
+  }
+  .d4 {
+    height: 1.175rem;
+    bottom: -1.127rem;
+    left: 0.449rem;
+    transform: rotate(30.8deg);
+    z-index: 5;
+  }
+  .a10,
+  .d4,
+  .date-values1 {
+    display: inline-block;
+    transform-origin: 0 0;
+  }
+  .a10 {
+    height: 1.175rem;
+    position: absolute;
+    margin: 0 !important;
+    right: 0.011rem;
+    bottom: -1.032rem;
+    transform: rotate(-34.4deg);
+    z-index: 10;
+  }
+  .date-values1 {
+    height: 1rem;
+    width: 0.206rem;
+    right: 0.013rem;
+    bottom: -0.666rem;
+    transform: rotate(-45.3deg);
+    z-index: 11;
+  }
+  .date-values1,
+  .date-values2,
+  .intersect-icon4 {
+    position: absolute;
+    margin: 0 !important;
+  }
+  .date-values2 {
+    height: 1.013rem;
+    right: -0.34rem;
+    bottom: -0.009rem;
+    display: inline-block;
+    transform: rotate(-55.4deg);
+    transform-origin: 0 0;
+    z-index: 12;
+  }
+  .intersect-icon4 {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    z-index: 13;
+  }
+  .image-24-icon4 {
+    height: 0.5rem;
+    width: 0.5rem;
+    position: relative;
+    border-radius: 100px;
+    object-fit: cover;
+    z-index: 14;
+  }
+  .date,
+  .footer-logo,
+  .footer4 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .date {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 2.737rem 0.787rem 0.931rem;
+    position: relative;
+  }
+  .footer-logo,
+  .footer4 {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .footer-logo {
+    align-self: stretch;
+    padding: 0.531rem 1.212rem 1.056rem;
+    position: relative;
+  }
+  .footer4 {
+    height: 27.494rem;
+    width: 5.756rem;
+    font-size: 0.538rem;
+    color: #fff;
+  }
+  .payment3,
+  .train-schedule1 {
+    align-self: stretch;
+    justify-content: flex-start;
+  }
+  .payment3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 0.525rem;
+    max-width: 100%;
+    color: rgba(102, 123, 133, 0.6);
+  }
+  .train-schedule1 {
+    flex-direction: column;
+    gap: 0.756rem;
+    color: #002234;
+  }
+  .booking-area,
+  .main-content,
+  .train-schedule1 {
+    display: flex;
+    align-items: flex-start;
+    max-width: 100%;
+  }
+  .booking-area {
+    flex: 1;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2.5rem;
+  }
+  .main-content {
+    width: 73.719rem;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 0 1.843rem 4.575rem 1.812rem;
+    box-sizing: border-box;
+    flex-shrink: 0;
+    text-align: left;
+    font-size: 0.75rem;
+    color: rgba(102, 123, 133, 0.6);
+    font-family: Inter;
+  }
+  .agents4,
+  .enquiries4,
+  .general-information4,
+  .important-information4,
+  .irctc-trains4 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 4.688rem;
+  }
+  .agents4,
+  .enquiries4,
+  .general-information4,
+  .important-information4 {
+    min-width: 7.125rem;
+  }
+  .agents4,
+  .enquiries4,
+  .important-information4 {
+    min-width: 7.875rem;
+  }
+  .agents4,
+  .enquiries4 {
+    min-width: 2.563rem;
+  }
+  .enquiries4 {
+    min-width: 3.375rem;
+  }
+  .link-categories {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.25rem;
+  }
+  .advertise-with-us4,
+  .how-to4,
+  .irctc-official-app4 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 2.75rem;
+  }
+  .advertise-with-us4,
+  .irctc-official-app4 {
+    min-width: 6.688rem;
+  }
+  .advertise-with-us4 {
+    min-width: 6.5rem;
+  }
+  .refund-rules4 {
+    display: inline-block;
+    min-width: 4.75rem;
+  }
+  .person-with-disability4,
+  .refund-rules4 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .link-categories1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.25rem;
+  }
+  .irctc-ewallet4 {
+    display: inline-block;
+    min-width: 5.125rem;
+  }
+  .irctc-ewallet4,
+  .irctc-ipay-payment-gateway4,
+  .irctc-loyalty-program4,
+  .irctc-zone4 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .irctc-zone4 {
+    display: inline-block;
+    min-width: 4.313rem;
+  }
+  .footer-services {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.25rem;
+  }
+  .about-us4,
+  .ask-disha-chatbot4,
+  .for-newly-migrated4,
+  .mobile-zone4,
+  .policies4 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .about-us4,
+  .ask-disha-chatbot4,
+  .mobile-zone4,
+  .policies4 {
+    display: inline-block;
+    min-width: 4.438rem;
+  }
+  .about-us4,
+  .ask-disha-chatbot4,
+  .policies4 {
+    min-width: 2.813rem;
+  }
+  .about-us4,
+  .ask-disha-chatbot4 {
+    min-width: 6.688rem;
+  }
+  .about-us4 {
+    min-width: 3.375rem;
+  }
+  .footer-links2,
+  .link-categories2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.25rem;
+  }
+  .footer-links2 {
+    width: 63.75rem;
+    border-bottom: 1px solid #d9d0e3;
+    box-sizing: border-box;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2rem 0 1.375rem;
+    max-width: 100%;
+  }
+  .partners5 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 3.125rem;
+  }
+  .image-31-icon4 {
+    align-self: stretch;
+    width: 3.619rem;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+    min-height: 1.5rem;
+  }
+  .image-32-icon4,
+  .image-34-icon4,
+  .image-35-icon4,
+  .image-36-icon4,
+  .image-37-icon4,
+  .image-38-icon4 {
+    align-self: stretch;
+    width: 4.256rem;
+    position: relative;
+    max-height: 100%;
+    object-fit: cover;
+    min-height: 1.5rem;
+  }
+  .image-34-icon4,
+  .image-35-icon4,
+  .image-36-icon4,
+  .image-37-icon4,
+  .image-38-icon4 {
+    width: 4.725rem;
+  }
+  .image-35-icon4,
+  .image-36-icon4,
+  .image-37-icon4,
+  .image-38-icon4 {
+    width: 3.481rem;
+  }
+  .image-36-icon4,
+  .image-37-icon4,
+  .image-38-icon4 {
+    width: 5.706rem;
+  }
+  .image-37-icon4,
+  .image-38-icon4 {
+    width: 3.938rem;
+  }
+  .image-38-icon4 {
+    width: 2.413rem;
+  }
+  .next,
+  .partners4 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 1.25rem;
+  }
+  .partners4 {
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.5rem;
+    max-width: 100%;
+  }
+  .connect-with-on4 {
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .image-43-icon4 {
+    object-fit: cover;
+  }
+  .icon-facebook-v14,
+  .icon-instagram4,
+  .icon-linkedin4,
+  .icon-pinterest4,
+  .icon-twitter4,
+  .image-43-icon4 {
+    height: 1.5rem;
+    width: 1.5rem;
+    position: relative;
+    min-height: 1.5rem;
+  }
+  .social-icons2,
+  .social-media-links1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+  }
+  .social-media-links1 {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .social-media1 {
+    width: 63.75rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    gap: 1.25rem;
+  }
+  .copyright-20234 {
+    position: relative;
+    font-size: 0.625rem;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  .footer-info,
+  .macbook-air-4 {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .footer-info {
+    align-self: stretch;
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1.25rem 2rem;
+    gap: 1.25rem;
+    max-width: 100%;
+    text-align: center;
+    font-size: 0.75rem;
+    color: #667b85;
+    font-family: Inter;
+  }
+  .macbook-air-4 {
+    width: 100%;
+    height: 99.063rem;
+    position: relative;
+    background-color: #f8f8f8;
+    overflow: hidden;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding: 0 0 28.437rem;
+    gap: 2.5rem;
+    letter-spacing: normal;
+    line-height: normal;
+  }
+  @media screen and (max-width: 1100px) {
+    .ticket-details1 {
+      flex-wrap: wrap;
+    }
+    .main-content {
+      padding-bottom: 3rem;
+      box-sizing: border-box;
+    }
+    .macbook-air-4 {
+      height: auto;
+    }
+  }
+  @media screen and (max-width: 1025px) {
+    .schedule-breakdown {
+      flex-wrap: wrap;
+    }
+    .main-details,
+    .main-details1 {
+      gap: 4.375rem;
+      padding-right: 3.063rem;
+      box-sizing: border-box;
+    }
+    .main-details1 {
+      padding-right: 2.563rem;
+    }
+    .additional-charges {
+      min-height: auto;
+    }
+    .payment3,
+    .social-media1 {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .travel-options4 {
+      display: none;
+    }
+    .image-1-parent {
+      width: 6.75rem;
+    }
+    .header4 {
+      padding-left: 1.875rem;
+      padding-right: 1.875rem;
+      box-sizing: border-box;
+    }
+    .departure {
+      flex-wrap: wrap;
+    }
+    .schedule-breakdown3 {
+      gap: 11.375rem;
+    }
+    .main-details {
+      gap: 2.188rem;
+      padding-right: 1.5rem;
+      box-sizing: border-box;
+    }
+    .main-details1 {
+      gap: 2.188rem;
+    }
+    .component-30 {
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+      box-sizing: border-box;
+    }
+    .charge-items {
+      flex-wrap: wrap;
+    }
+    .button-container {
+      flex-wrap: wrap;
+      padding-left: 12.188rem;
+      box-sizing: border-box;
+    }
+    .additional-charges {
+      min-width: 100%;
+    }
+    .booking-area {
+      gap: 1.25rem;
+    }
+    .main-content {
+      padding-bottom: 1.938rem;
+      box-sizing: border-box;
+    }
+    .footer-links2,
+    .next {
+      flex-wrap: wrap;
+    }
+    .macbook-air-4 {
+      gap: 1.25rem;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .travel-class {
+      flex-wrap: wrap;
+    }
+    .schedule-breakdown3 {
+      gap: 5.688rem;
+    }
+    .contact-details1,
+    .data-field,
+    .email-id-parent,
+    .gender-parent,
+    .mobile-parent {
+      flex-wrap: wrap;
+    }
+    .main-details2 {
+      gap: 4.375rem;
+    }
+    .fare-table,
+    .fare-table1,
+    .fare-table2,
+    .fare-table3 {
+      flex-wrap: wrap;
+    }
+    .button-container {
+      padding-left: 1.25rem;
+      box-sizing: border-box;
+    }
+    .additional-charges {
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+      box-sizing: border-box;
+    }
+  }
+  
